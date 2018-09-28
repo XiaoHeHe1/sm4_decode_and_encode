@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1165d9ed-1607-4687-8f36-3a290fe79b5c++1800",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1165d9ed-1607-4687-8f36-3a290fe79b5c++1800" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1165d9ed-1607-4687-8f36-3a290fe79b5c++1800" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "827ACBE7-44CF-4552-8679-BAEFC929A8CB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1165d9ed-1607-4687-8f36-3a290fe79b5c++1800" : "SM234%E6%94%B9%E9%80%A0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "keyboardYU",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "博客专用sm4\/keyboardYU.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/101.200.196.65\/jxf",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1165d9ed-1607-4687-8f36-3a290fe79b5c++1800"
+    }
+  ]
+}
